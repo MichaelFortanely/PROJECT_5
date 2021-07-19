@@ -27,6 +27,8 @@ public class Main extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         //i am writing a comment
+        //this is a second comment
+        //and a third comment
         Group root = new Group();
         Scene scene = new Scene(root, 600, 600, Color.DARKORCHID);
 
